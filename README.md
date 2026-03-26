@@ -4,7 +4,7 @@
 
 🌟 Un poco sobre mí  
 🔄 **Mi transición profesional**  
-Antes trabajaba como coordinadora, pero mi pasión por la tecnología me llevó a formarme como desarrolladora web.  
+Antes trabajaba como coordinadora en el sector sanitario, pero mi pasión por la tecnología me llevó a formarme como desarrolladora web.  
 Actualmente soy estudiante de IA y Big Data, y he creado proyectos propios como **[vacunacion.info](https://vacunacion.info)**, una aplicación web desarrollada con PHP, Bootstrap, CSS, HTML, JavaScript, consumiendo APIs REST y desplegada en **AWS**. 🚀  
 
 👩‍💻 **Habilidades y tecnologías**  
