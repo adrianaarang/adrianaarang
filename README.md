@@ -21,7 +21,6 @@ Actualmente soy estudiante de IA y Big Data, y he creado proyectos propios como 
 
 🚀 Proyectos destacados  
 ✨ **vacunacion.info** – Aplicación web de gestión del calendario vacunal infantil en España.  
-✨ **Proyectos de IA y Big Data** – Notebooks y experimentos de aprendizaje automático y análisis de datos.  
 
 🤝 Colaboraciones y proyectos educativos  
 🌱 Me gusta participar en proyectos abiertos, hackathons y compartir conocimiento con la comunidad.  
