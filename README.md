@@ -28,7 +28,7 @@ Actualmente soy estudiante de IA y Big Data, y he creado proyectos propios como 
 
 📊 Mis stats en GitHub  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianaarang&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=adrianaarang&layout=compact&theme=radical)
 
 🌍 Conecta conmigo  
 
