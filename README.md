@@ -35,3 +35,5 @@ Actualmente soy estudiante de IA y Big Data, y he creado proyectos propios como 
 🌍 Conecta conmigo  
 
 💼 [LinkedIn](https://www.linkedin.com/in/adriana-aranguez)  
+
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adrianaarang&theme=radical)
