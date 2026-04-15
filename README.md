@@ -14,7 +14,7 @@
 Vengo de coordinar equipos en el **sector sanitario**, lo que me aportó una base sólida en resolución de problemas bajo presión. Hoy, aplico esa mentalidad analítica al desarrollo de software y al análisis de datos.
 
 * 🚀 **Proyecto estrella:** [vacunacion.info](https://vacunacion.info)
-* 🧠 **Aprendiendo:** Modelos de Machine Learning y Big Data.
+* 🧠 **Aprendiendo:** Modelos de Machine Learning y Big Data. Bootcamp SomosF5 (1250h)
 
 ---
 
