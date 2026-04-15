@@ -27,12 +27,11 @@ Herramientas: Git, GitHub, VS Code, Jupyter N, Jira
 ---
 
 ### 📊 GitHub Activity
-<p align="left">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=adrianaarang&show_icons=true&theme=radical&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianaarang&layout=compact&theme=radical&hide_border=true" />
-</p>
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adrianaarang&theme=radical)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adrianaarang&theme=radical)
 
----
+🌍 Conecta conmigo  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecta-blue)](https://www.linkedin.com/in/adriana-aranguez/)
 
-### 📫 Conecta conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriana-aranguez/)
+
+💼 [LinkedIn](https://www.linkedin.com/in/adriana-aranguez)  
