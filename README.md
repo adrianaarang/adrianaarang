@@ -38,10 +38,7 @@ Vengo de coordinar equipos en el **sector sanitario**, lo que me aportó una bas
 
 ### 📊 Mi Actividad en GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adrianaarang&show_icons=true&theme=radical&title_color=79E6BB&icon_color=79E6BB&hide_border=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianaarang&layout=compact&theme=radical&title_color=79E6BB&hide_border=true" width="300" />
-</p>
+![Métricas de Adriana](https://metrics.lecoq.io/adrianaarang?base=header,repositories,community&base.indepth=false&theme=terminal)
 
 ---
 
