@@ -42,6 +42,7 @@ Vengo de coordinar equipos en el **sector sanitario**, lo que me aportó una bas
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adrianaarang&theme=radical" width="400" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adrianaarang&theme=radical" width="400" />
 </p>
+
 ---
 
 ### 🌍 Conecta conmigo
