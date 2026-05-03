@@ -1,6 +1,6 @@
 # <p align="center">👩‍💻 Adriana Aránguez</p>
 <p align="center">
-  <b>Full Stack Developer | AI & Big Data Student | HealthTech Enthusiast</b>
+  <b>Full Stack Developer | Analista Funcional IT | AI & Big Data Student | HealthTech Enthusiast</b>
 </p>
 
 <p align="center">
