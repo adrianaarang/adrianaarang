@@ -33,7 +33,8 @@ Vengo de coordinar equipos en el **sector sanitario**, un sector donde aprendí 
 
 <br>
 
-**🚀 Proyecto destacado:** [vacunacion.info](https://github.com/adrianaarang/vacunacion.info)
+**🚀 Proyecto destacado:** vacunacion.info — [Ver en GitHub](https://github.com/adrianaarang/vacunacion.info)
+
 ### 🛠️ Mi Stack Tecnológico
 
 **Frontend & Design**
