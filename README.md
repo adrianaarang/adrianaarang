@@ -1,66 +1,210 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=79E6BB&height=200&section=header&text=Adriana%20Aránguez&fontSize=50&animation=fadeIn&fontColor=2D3436" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,3&height=220&section=header&text=Adriana%20Aránguez&fontSize=52&fontColor=79E6BB&desc=Full%20Stack%20·%20Data%20Analyst%20·%20HealthTech&descSize=16&descAlignY=75&animation=fadeIn" width="100%"/>
+</div>
 
-<p align="center">
-  <b>Full Stack Developer | Analista Funcional IT | AI & Big Data Student | HealthTech Enthusiast</b>
-</p>
+<br/>
 
-<p align="center">
-  <!-- Badge de Full Stack -->
-  <img src="https://img.shields.io/badge/Full_Stack_Dev-454d55?style=for-the-badge&logo=render&logoColor=white" />
-  
-  <!-- Badge de Analista -->
-  <img src="https://img.shields.io/badge/Functional_Analyst-79E6BB?style=for-the-badge&logo=codewars&logoColor=2D3436" />
-  
-  <!-- Badge de IA -->
-  <img src="https://img.shields.io/badge/IA_&_Data-6c757d?style=for-the-badge&logo=scipy&logoColor=white" />
-</p>
+<div align="center">
 
----
+📍 Madrid · Remoto &nbsp;|&nbsp; 📩 adriaranguez89@gmail.com
 
-### 🌟 Sobre mí
+<br/><br/>
 
-Vengo de coordinar equipos en el **sector sanitario**, un sector donde aprendí a resolver problemas bajo presión, a gestionar procesos complejos y diversos equipos. Hoy, aplico esa mentalidad analítica para construir soluciones tecnológicas que aporten valor real.
+<a href="https://www.linkedin.com/in/adriana-aranguez/">
+  <img src="https://img.shields.io/badge/LinkedIn-informational?style=social&logo=linkedin" />
+</a>
+&nbsp;&nbsp;
+<a href="https://lactanalytics.streamlit.app">
+  <img src="https://img.shields.io/badge/LactAnalytics-informational?style=social&logo=streamlit" />
+</a>
+&nbsp;&nbsp;
+<a href="https://vacunacion.info">
+  <img src="https://img.shields.io/badge/vacunacion.info-informational?style=social&logo=googlechrome" />
+</a>
 
-<br>
+</div>
 
-> [!NOTE]
-> ### 💡 Mi enfoque actual
-> * **Analista Funcional:** Traduciendo necesidades de negocio en requerimientos técnicos claros.
-> * **Full Stack Dev:** Construyendo herramientas con foco en **HealthTech**.
-> * **Aprendizaje continuo:** IA & Big Data • Bootcamp SomosF5 (1250h).
+<br/>
 
-<br>
+<div align="center">
+*8 años en entornos clínicos de alta intensidad. Hoy construyo herramientas que convierten datos en decisiones.*
+*Especialidad: HealthTech · Transformación digital · Análisis de datos con impacto real.*
 
-**🚀 Proyecto destacado:** vacunacion.info — [Ver en GitHub](https://github.com/adrianaarang/vacunacion.info)
+</div>
 
-### 🛠️ Mi Stack Tecnológico
-
-**Frontend & Design**
-> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Backend & Database**
-> ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Cloud & Management**
-> ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 📊 Mi Actividad en GitHub
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adrianaarang&theme=monokai" width="400" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adrianaarang&theme=monokai" width="400" />
-</p>
+<br/>
 
 ---
 
-### 🌍 Conecta conmigo
+## 🛠️ Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriana-aranguez/)[![Web](https://img.shields.io/badge/vacunacion.info-79E6BB?style=for-the-badge&logo=google-chrome&logoColor=black)](https://vacunacion.info)
+<div align="center">
 
-<p align="center">
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>
+      <sub>Python</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br/>
+      <sub>Pandas</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="40"/><br/>
+      <sub>Plotly</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40"/><br/>
+      <sub>Streamlit</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/><br/>
+      <sub>PHP</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br/>
+      <sub>JavaScript</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br/>
+      <sub>MySQL</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br/>
+      <sub>HTML5</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br/>
+      <sub>CSS3</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/><br/>
+      <sub>Bootstrap</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/><br/>
+      <sub>AWS</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br/>
+      <sub>Docker</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br/>
+      <sub>Git</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br/>
+      <sub>GitHub</sub>
+    </td>
+  </tr>
+</table>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&colole-render.vercel.app/api?type=rect&color=79E6BB&height=30&section=footer" width="100%"/>
-</p>
-</p>
+<br/>
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)&nbsp;
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Proyectos
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+### 🔬 LactAnalytics
+> Dashboard interactivo de lactancia materna en España con IA integrada.
+
+[![Ver app](https://img.shields.io/badge/▶_Ver_app-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://lactanalytics.streamlit.app)
+
+- Microdata ENSE 2017 · 17 CCAA
+- Tests estadísticos + mapa coroplético
+- LactBot: asistente IA vía Groq API
+- Informe de sesgos y ética de datos
+
+`Python` · `Streamlit` · `Plotly` · `Groq`
+
+</td>
+<td width="50%">
+
+### 💉 vacunacion.info
+> Calendario de vacunación infantil con recordatorios por email. TFG DAW.
+
+[![Ver proyecto](https://img.shields.io/badge/▶_Ver_proyecto-79E6BB?style=for-the-badge&logo=googlechrome&logoColor=black)](https://vacunacion.info)
+
+- Gestión de calendarios personalizados
+- Recordatorios automáticos vía Brevo API
+- Panel de administración PHP
+- Diseño responsive
+
+`PHP` · `MySQL` · `Brevo API` · `Bootstrap`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 TinderJob
+> Análisis del mercado tech español + matching automático de CV.
+
+[![Ver repo](https://img.shields.io/badge/▶_Ver_repo-6c757d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adrianaarang/TinderJob)
+
+- Scraping de Tecnoempleo
+- 3 notebooks modulares de análisis
+- Dashboard Streamlit + TinderMatch tab
+- Presentación en demo day del bootcamp
+
+`Python` · `Pandas` · `Streamlit` · `Selenium`
+
+</td>
+<td width="50%">
+
+### 🌍 The Global Empowerment
+> Web para ONG de empoderamiento femenino en África rural.
+
+[![Ver repo](https://img.shields.io/badge/▶_Ver_repo-6c757d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adrianaarang/Global_Empowerment)
+
+- Arquitectura modular PHP + Bootstrap 5
+- Flujo de donación y membresía multistep
+- Integración PHPMailer
+- Colores de marca + identidad visual
+
+`PHP` · `Bootstrap 5` · `PHPMailer`
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adrianaarang&theme=github_dark" width="380"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adrianaarang&theme=github_dark" width="380"/>
+</div>
+
+---
+
+<div align="center">
+
+**¿Hablamos?**
+
+[![LinkedIn](https://img.shields.io/badge/Adriana%20Aránguez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriana-aranguez/)&nbsp;
+[![Email](https://img.shields.io/badge/adriaranguez89@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adriaranguez89@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=79E6BB&height=100&section=footer" width="100%"/>
+
+</div>
