@@ -6,7 +6,7 @@
 
 <div align="center">
 
-📍 Madrid · Remoto &nbsp;|&nbsp; 📩 adriaranguez89@gmail.com
+📍 Madrid &nbsp;|&nbsp; 📩 adriaranguez89@gmail.com
 
 <br/><br/>
 
