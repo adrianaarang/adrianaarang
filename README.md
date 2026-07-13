@@ -5,14 +5,23 @@
 <br/>
 
 <div align="center">
+  <a href="https://adrianaaranguez.es">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=79E6BB&center=true&vCenter=true&width=650&lines=Full+Stack+%26+Python+%7C+IA+%26+Big+Data;%2B8+a%C3%B1os+liderando+equipos+y+analizando+procesos;HealthTech+%C2%B7+Transformaci%C3%B3n+digital" alt="Typing SVG" />
+  </a>
+</div>
 
-📍 Madrid &nbsp;|&nbsp; 📩 adriaranguez89@gmail.com
+<br/>
+
+<div align="center">
+
+📍 Madrid &nbsp;|&nbsp; 📩 adriaranguez89@gmail.com &nbsp;|&nbsp; 🌐 Español nativo · Inglés B2
 
 <br/><br/>
-&nbsp;&nbsp;
+
 <a href="https://adrianaaranguez.es">
-  <img src="https://img.shields.io/badge/Portfolio-informational?style=social&logo=googlechrome" />
+  <img src="https://img.shields.io/badge/Portfolio-79E6BB?style=social&logo=googlechrome" />
 </a>
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/adriana-aranguez/">
   <img src="https://img.shields.io/badge/LinkedIn-informational?style=social&logo=linkedin" />
 </a>
@@ -29,84 +38,73 @@
 
 <br/>
 
-<div align="center">
-*8 años en entornos clínicos de alta intensidad. Hoy construyo herramientas que convierten datos en decisiones.*
-*Especialidad: HealthTech · Transformación digital · Análisis de datos con impacto real.*
+---
 
-</div>
+## 👋 Sobre mí
 
-<br/>
+Técnico Superior en Desarrollo de Aplicaciones Web (CFGS DAW) y actualmente en formación en Inteligencia Artificial y Big Data (Bootcamp 1250h, Somos F5). Combino esta base técnico-analítica en Python, Machine Learning y estadística aplicada con **+8 años de experiencia liderando equipos y procesos** en el sector sanitario, lo que me da una capacidad diferencial para entender y modelar problemas complejos en el ámbito **HealthTech**. Experiencia práctica en proyectos de ciencia de datos end-to-end: limpieza y EDA, modelado predictivo, evaluación de modelos, y despliegue de dashboards y asistentes basados en LLMs.
 
 ---
 
-## 🛠️ Stack
+## 🎓 Educación y certificaciones
+
+- 🖥️ **CFGS Desarrollo de Aplicaciones Web (DAW)** · IES Infanta Elena — *2023–2025*
+- 🤖 **Bootcamp Inteligencia Artificial y Big Data (1250h)** · Somos F5 — *en curso*
+- ☁️ **Certificación AB-900** · Microsoft 365 Copilot and Agent Administration Fundamentals — *julio 2026*
+
+---
+
+## 🛠️ Skills técnicas
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**IA & Machine Learning**
+Scikit-learn · modelos de clasificación y regresión · feature engineering · evaluación de modelos (recall/precision) · LLMs aplicados (Groq/LLaMA 3.3) · prompt engineering
+
+**Datos y Estadística**
+pandas · NumPy · análisis estadístico inferencial (Kruskal-Wallis, Chi-cuadrado, Spearman) · limpieza y transformación de datos · Power BI · Plotly · Streamlit
+
+**Lenguajes y Desarrollo**
+Python · PHP (MVC) · JavaScript · SQL · HTML5 · CSS3
+
+</td>
+<td valign="top" width="50%">
+
+**Ingeniería de Datos**
+Web scraping · ETL · APIs REST · modelado entidad-relación · datasets multi-fuente
+
+**Cloud & Herramientas**
+AWS (EC2, Lightsail) · Docker · Git/GitHub · Microsoft 365 Copilot & Agents (AB-900) · Streamlit Cloud / Netlify
+
+**Gestión Ágil y Liderazgo**
+Scrum · gestión de backlog y stakeholders · equipos multidisciplinares · definición de requisitos (UML) · pruebas UAT
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>
-      <sub>Python</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br/>
-      <sub>Pandas</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="40"/><br/>
-      <sub>Plotly</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40"/><br/>
-      <sub>Streamlit</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/><br/>
-      <sub>PHP</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br/>
-      <sub>JavaScript</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br/>
-      <sub>MySQL</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br/>
-      <sub>HTML5</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br/>
-      <sub>CSS3</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/><br/>
-      <sub>Bootstrap</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/><br/>
-      <sub>AWS</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br/>
-      <sub>Docker</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br/>
-      <sub>Git</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br/>
-      <sub>GitHub</sub>
-    </td>
-  </tr>
-</table>
-
 <br/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="36"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="36"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="36"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36"/>
+
+<br/><br/>
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)&nbsp;
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
@@ -116,21 +114,53 @@
 
 ---
 
-## 🚀 Proyectos
+## 🚀 Proyectos de IA & Data Science
 
 <div align="center">
 <table>
 <tr>
 <td width="50%">
 
+### 🎮 Portfolio interactivo
+> Plataformer HTML5 Canvas con IA integrada (AdrIA) y modo reclutador.
+
+[![Ver web](https://img.shields.io/badge/▶_Ver_web-79E6BB?style=for-the-badge&logo=googlechrome&logoColor=black)](https://adrianaaranguez.es)
+
+- Juego de plataformas con cofres que desbloquean proyectos
+- Chat con IA (AdrIA) vía Groq, backend FastAPI en Render
+- Modo Recruiter: CV interactivo con animación de terminal
+- Pantalla MISSION COMPLETE con confeti + soporte táctil
+
+`JavaScript` · `HTML5 Canvas` · `FastAPI` · `Groq`
+
+</td>
+<td width="50%">
+
+### 🧩 TesTEA
+> Herramienta de cribado temprano de TEA (Machine Learning). **Líder de equipo.**
+
+[![Ver repo](https://img.shields.io/badge/▶_Ver_repo-6c757d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adrianaarang/tesTEA)
+
+- Modelo de clasificación sobre el cuestionario clínico AQ-10 y tres datasets distintos
+- Recall priorizado como métrica clave (herramienta de apoyo clínico)
+- Arquitectura modular (notebooks, `src/`, frontend en HTML)
+- Gestión ágil del equipo con tablero Kanban
+
+`Python` · `scikit-learn` · `JavaScript` · `GitHub Pages`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 🔬 LactAnalytics
-> Dashboard interactivo de lactancia materna en España con IA integrada.
+> Dashboard de datos y asistente de IA en salud pública.
 
 [![Ver app](https://img.shields.io/badge/▶_Ver_app-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://lactanalytics.streamlit.app)
 
-- Microdata ENSE 2017 · 17 CCAA
-- Tests estadísticos + mapa coroplético
-- LactBot: asistente IA vía Groq API
+- Microdata ENSE 2017 · patrones de lactancia materna en España
+- Análisis estadístico inferencial + mapas coropléticos
+- LactBot: asistente conversacional vía Groq/LLaMA 3.3
 - Informe de sesgos y ética de datos
 
 `Python` · `Streamlit` · `Plotly` · `Groq`
@@ -138,47 +168,44 @@
 </td>
 <td width="50%">
 
-### 💉 vacunacion.info
-> Calendario de vacunación infantil con recordatorios por email. TFG DAW.
+### 📊 TinderJob
+> Análisis de sesgo en el mercado laboral tech español. **Analytics & Bias Reporter.**
 
-[![Ver proyecto](https://img.shields.io/badge/▶_Ver_proyecto-79E6BB?style=for-the-badge&logo=googlechrome&logoColor=black)](https://vacunacion.info)
+[![Ver repo](https://img.shields.io/badge/▶_Ver_repo-6c757d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adrianaarang/TinderJob)
 
-- Gestión de calendarios personalizados
-- Recordatorios automáticos vía Brevo API
-- Panel de administración PHP
-- Diseño responsive
+- Scraping de ofertas de Tecnoempleo + EDA
+- Análisis de probabilidad condicional e informe de sesgo (MNAR) sobre salarios no publicados
+- App Streamlit con funcionalidad de matching de CVs
 
-`PHP` · `MySQL` · `Brevo API` · `Bootstrap`
+`Python` · `Pandas` · `Streamlit` · `Selenium`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 📊 TinderJob
-> Análisis del mercado tech español + matching automático de CV.
+### 💉 vacunacion.info
+> Plataforma HealthTech de calendario de vacunación infantil. Proyecto propio (TFG).
 
-[![Ver repo](https://img.shields.io/badge/▶_Ver_repo-6c757d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adrianaarang/TinderJob)
+[![Ver proyecto](https://img.shields.io/badge/▶_Ver_proyecto-79E6BB?style=for-the-badge&logo=googlechrome&logoColor=black)](https://vacunacion.info)
 
-- Scraping de Tecnoempleo
-- 3 notebooks modulares de análisis
-- Dashboard Streamlit + TinderMatch tab
-- Presentación en demo day del bootcamp
+- Arquitectura MVC y base de datos relacional centralizando datos de salud
+- Automatización de notificaciones vía Brevo API
+- Ciclo de vida completo del producto (SDLC) hasta despliegue en AWS
 
-`Python` · `Pandas` · `Streamlit` · `Selenium`
+`PHP` · `MySQL` · `Brevo API` · `AWS`
 
 </td>
 <td width="50%">
 
 ### 🌍 The Global Empowerment
-> Web para ONG de empoderamiento femenino en África rural.
+> Plataforma web y ecommerce para ONG de empoderamiento femenino en África rural.
 
 [![Ver repo](https://img.shields.io/badge/▶_Ver_repo-6c757d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adrianaarang/Global_Empowerment)
 
-- Arquitectura modular PHP + Bootstrap 5
-- Flujo de donación y membresía multistep
-- Integración PHPMailer
-- Colores de marca + identidad visual
+- Arquitectura greenfield (frontend + backend desde cero)
+- Modelo entidad-relación para tienda, usuarios, donaciones y contenidos
+- Flujo de donación y membresía multistep + PHPMailer
 
 `PHP` · `Bootstrap 5` · `PHPMailer`
 
@@ -186,6 +213,26 @@
 </tr>
 </table>
 </div>
+
+---
+
+## 💼 Experiencia profesional
+
+**Responsable de Comunicación y Desarrollo Digital** · Global Empowerment
+*abr. 2025 – actualidad · España · Remoto*
+Análisis y definición de requisitos de negocio, diseño e implementación íntegra (frontend + backend) de la plataforma web y ecommerce de la organización, y liderazgo de la estrategia de comunicación digital.
+
+**Software Developer & Analista IT** · vacunacion.info (proyecto propio)
+*feb. 2025 – actualidad · Madrid*
+Desarrollo íntegro de una plataforma HealthTech con arquitectura MVC, automatización de notificaciones y gestión del ciclo de vida completo del producto hasta el despliegue en AWS.
+
+**Analista Funcional IT** · Stratefin
+*mar. 2025 – jun. 2025 · Madrid*
+Análisis de requerimientos técnicos, redacción de especificaciones funcionales y validaciones de calidad mediante pruebas UAT y testing de integraciones de APIs.
+
+**Coordinadora de Equipos y Procesos** · Fundación Summa Humanitate
+*2017 – nov. 2025 · Madrid*
+Liderazgo de equipos multidisciplinares en entornos de alta presión, optimización de flujos de trabajo internos y gestión de incidencias críticas en tiempo real.
 
 ---
 
@@ -203,6 +250,7 @@
 
 **¿Hablamos?**
 
+[![Portfolio](https://img.shields.io/badge/adrianaaranguez.es-79E6BB?style=for-the-badge&logo=googlechrome&logoColor=black)](https://adrianaaranguez.es)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/Adriana%20Aránguez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriana-aranguez/)&nbsp;
 [![Email](https://img.shields.io/badge/adriaranguez89@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adriaranguez89@gmail.com)
 
