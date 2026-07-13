@@ -9,7 +9,10 @@
 📍 Madrid &nbsp;|&nbsp; 📩 adriaranguez89@gmail.com
 
 <br/><br/>
-
+&nbsp;&nbsp;
+<a href="https://adrianaaranguez.es">
+  <img src="https://img.shields.io/badge/Portfolio-informational?style=social&logo=googlechrome" />
+</a>
 <a href="https://www.linkedin.com/in/adriana-aranguez/">
   <img src="https://img.shields.io/badge/LinkedIn-informational?style=social&logo=linkedin" />
 </a>
