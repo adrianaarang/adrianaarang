@@ -48,61 +48,177 @@ Técnico Superior en Desarrollo de Aplicaciones Web (CFGS DAW) y actualmente en 
 
 ## 🎓 Educación y certificaciones
 
-- 🖥️ **CFGS Desarrollo de Aplicaciones Web (DAW)** · IES Infanta Elena — *2023–2025*
-- 🤖 **Bootcamp Inteligencia Artificial y Big Data (1250h)** · Somos F5 — *en curso*
-- ☁️ **Certificación AB-900** · Microsoft 365 Copilot and Agent Administration Fundamentals — *julio 2026*
-
----
-
-## 🛠️ Skills técnicas
-
+<div align="center">
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%">
 
-**IA & Machine Learning**
-Scikit-learn · modelos de clasificación y regresión · feature engineering · evaluación de modelos (recall/precision) · LLMs aplicados (Groq/LLaMA 3.3) · prompt engineering
-
-**Datos y Estadística**
-pandas · NumPy · análisis estadístico inferencial (Kruskal-Wallis, Chi-cuadrado, Spearman) · limpieza y transformación de datos · Power BI · Plotly · Streamlit
-
-**Lenguajes y Desarrollo**
-Python · PHP (MVC) · JavaScript · SQL · HTML5 · CSS3
+### 🖥️ CFGS Desarrollo de Aplicaciones Web
+IES Infanta Elena · *2023–2025*
 
 </td>
-<td valign="top" width="50%">
+<td width="50%">
 
-**Ingeniería de Datos**
-Web scraping · ETL · APIs REST · modelado entidad-relación · datasets multi-fuente
+### 🤖 Bootcamp IA & Big Data (1250h)
+Somos F5 · *en curso*
 
-**Cloud & Herramientas**
-AWS (EC2, Lightsail) · Docker · Git/GitHub · Microsoft 365 Copilot & Agents (AB-900) · Streamlit Cloud / Netlify
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-**Gestión Ágil y Liderazgo**
-Scrum · gestión de backlog y stakeholders · equipos multidisciplinares · definición de requisitos (UML) · pruebas UAT
+### ☁️ AB-900 · M365 Copilot & Agent Admin
+Microsoft · *julio 2026*
+
+</td>
+<td width="50%">
+
+### 🔄 Introduction to Scrum Master Training
+LearnQuest (Coursera) · *junio 2026*
 
 </td>
 </tr>
 </table>
+</div>
+
+---
+
+## 🧠 Skills técnicas
+
+<div align="center">
+
+**🟣 IA & Machine Learning**
+<br/>
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-8B5CF6?style=flat-square)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-8B5CF6?style=flat-square)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-8B5CF6?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs%20(Groq%2FLLaMA)-8B5CF6?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8B5CF6?style=flat-square)
+
+<br/>
+
+**🔵 Datos y Estadística**
+<br/>
+![pandas](https://img.shields.io/badge/pandas-06B6D4?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-06B6D4?style=flat-square)
+![Estadística Inferencial](https://img.shields.io/badge/Estad%C3%ADstica%20Inferencial-06B6D4?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power%20BI-06B6D4?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-06B6D4?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-06B6D4?style=flat-square)
+
+<br/>
+
+**🟢 Lenguajes y Desarrollo**
+<br/>
+![Python](https://img.shields.io/badge/Python-79E6BB?style=flat-square&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-79E6BB?style=flat-square&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-79E6BB?style=flat-square&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-79E6BB?style=flat-square&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-79E6BB?style=flat-square&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-79E6BB?style=flat-square&logoColor=black)
+
+<br/>
+
+**🟠 Ingeniería de Datos**
+<br/>
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-F59E0B?style=flat-square)
+![ETL](https://img.shields.io/badge/ETL-F59E0B?style=flat-square)
+![APIs REST](https://img.shields.io/badge/APIs%20REST-F59E0B?style=flat-square)
+![Modelado E-R](https://img.shields.io/badge/Modelado%20E--R-F59E0B?style=flat-square)
+![Datasets Multi-fuente](https://img.shields.io/badge/Datasets%20Multi--fuente-F59E0B?style=flat-square)
+
+<br/>
+
+**🔷 Cloud & Herramientas**
+<br/>
+![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square)
+![Git/GitHub](https://img.shields.io/badge/Git%2FGitHub-3B82F6?style=flat-square)
+![M365 Copilot](https://img.shields.io/badge/M365%20Copilot%20%26%20Agents-3B82F6?style=flat-square)
+![Netlify](https://img.shields.io/badge/Streamlit%20Cloud%20%2F%20Netlify-3B82F6?style=flat-square)
+
+<br/>
+
+**🟩 Gestión Ágil y Liderazgo**
+<br/>
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square)
+![Backlog](https://img.shields.io/badge/Gesti%C3%B3n%20de%20Backlog-6DB33F?style=flat-square)
+![Stakeholders](https://img.shields.io/badge/Stakeholders-6DB33F?style=flat-square)
+![UML](https://img.shields.io/badge/UML-6DB33F?style=flat-square)
+![UAT](https://img.shields.io/badge/Pruebas%20UAT-6DB33F?style=flat-square)
+
+</div>
+
+---
+
+## 🛠️ Stack
 
 <div align="center">
 
 <br/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="36"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="36"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="36"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36"/>
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>
+      <sub>Python</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br/>
+      <sub>Pandas</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="40"/><br/>
+      <sub>Plotly</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40"/><br/>
+      <sub>Streamlit</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/><br/>
+      <sub>PHP</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br/>
+      <sub>JavaScript</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br/>
+      <sub>MySQL</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br/>
+      <sub>HTML5</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br/>
+      <sub>CSS3</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/><br/>
+      <sub>Bootstrap</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/><br/>
+      <sub>AWS</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br/>
+      <sub>Docker</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br/>
+      <sub>Git</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br/>
+      <sub>GitHub</sub>
+    </td>
+  </tr>
+</table>
 
 <br/><br/>
 
