@@ -26,6 +26,10 @@
   <img src="https://img.shields.io/badge/LinkedIn-informational?style=social&logo=linkedin" />
 </a>
 &nbsp;&nbsp;
+<a href="https://github.com/adrianaarang/ResiCare">
+  <img src="https://img.shields.io/badge/ResiCare-informational?style=social&logo=github" />
+</a>
+&nbsp;&nbsp;
 <a href="https://lactanalytics.streamlit.app">
   <img src="https://img.shields.io/badge/LactAnalytics-informational?style=social&logo=streamlit" />
 </a>
@@ -42,7 +46,7 @@
 
 ## 👋 Sobre mí
 
-Técnico Superior en Desarrollo de Aplicaciones Web (CFGS DAW) y actualmente en formación en Inteligencia Artificial y Big Data (Bootcamp 1250h, Somos F5). Combino esta base técnico-analítica en Python, Machine Learning y estadística aplicada con **+8 años de experiencia liderando equipos y procesos** en el sector sanitario, lo que me da una capacidad diferencial para entender y modelar problemas complejos en el ámbito **HealthTech**. Experiencia práctica en proyectos de ciencia de datos end-to-end: limpieza y EDA, modelado predictivo, evaluación de modelos, y despliegue de dashboards y asistentes basados en LLMs.
+Técnico Superior en Desarrollo de Aplicaciones Web (CFGS DAW) y actualmente en formación en Inteligencia Artificial y Big Data (Bootcamp 1250h, Somos F5). Combino esta base técnico-analítica en Python, Machine Learning y estadística aplicada con **+8 años de experiencia liderando equipos y procesos** en el sector sanitario, lo que me da una capacidad diferencial para entender y modelar problemas complejos en el ámbito **HealthTech**. Experiencia práctica en proyectos de ciencia de datos end-to-end: limpieza y EDA, modelado predictivo, evaluación de modelos, agentes con tool calling y RAG, y despliegue de dashboards y asistentes basados en LLMs.
 
 ---
 
@@ -67,11 +71,19 @@ Somos F5 · *en curso*
 <tr>
 <td width="50%">
 
+### ☁️ AI-901 · Azure AI Fundamentals
+Microsoft · *2026*
+
+</td>
+<td width="50%">
+
 ### ☁️ AB-900 · M365 Copilot & Agent Admin
 Microsoft · *julio 2026*
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td width="50%" colspan="2" align="center">
 
 ### 🔄 Introduction to Scrum Master Training
 LearnQuest (Coursera) · *junio 2026*
@@ -92,7 +104,9 @@ LearnQuest (Coursera) · *junio 2026*
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-8B5CF6?style=flat-square)
 ![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-8B5CF6?style=flat-square)
 ![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-8B5CF6?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLMs%20(Groq%2FLLaMA)-8B5CF6?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs%20(Groq%2FLLaMA%2FOllama)-8B5CF6?style=flat-square)
+![Agentes ReAct](https://img.shields.io/badge/Agentes%20ReAct%20(Tool%20Calling)-8B5CF6?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=flat-square)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8B5CF6?style=flat-square)
 
 <br/>
@@ -116,11 +130,14 @@ LearnQuest (Coursera) · *junio 2026*
 ![SQL](https://img.shields.io/badge/SQL-79E6BB?style=flat-square&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-79E6BB?style=flat-square&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-79E6BB?style=flat-square&logoColor=black)
+![React](https://img.shields.io/badge/React-79E6BB?style=flat-square&logoColor=black)
 
 <br/>
 
-**🟠 Ingeniería de Datos**
+**🟠 Ingeniería de Datos y Backend**
 <br/>
+![FastAPI](https://img.shields.io/badge/FastAPI-F59E0B?style=flat-square)
+![Pydantic](https://img.shields.io/badge/Pydantic-F59E0B?style=flat-square)
 ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-F59E0B?style=flat-square)
 ![ETL](https://img.shields.io/badge/ETL-F59E0B?style=flat-square)
 ![APIs REST](https://img.shields.io/badge/APIs%20REST-F59E0B?style=flat-square)
@@ -135,6 +152,7 @@ LearnQuest (Coursera) · *junio 2026*
 ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square)
 ![Git/GitHub](https://img.shields.io/badge/Git%2FGitHub-3B82F6?style=flat-square)
 ![M365 Copilot](https://img.shields.io/badge/M365%20Copilot%20%26%20Agents-3B82F6?style=flat-square)
+![Azure AI](https://img.shields.io/badge/Azure%20AI-3B82F6?style=flat-square)
 ![Netlify](https://img.shields.io/badge/Streamlit%20Cloud%20%2F%20Netlify-3B82F6?style=flat-square)
 
 <br/>
@@ -176,9 +194,19 @@ LearnQuest (Coursera) · *junio 2026*
       <sub>Streamlit</sub>
     </td>
     <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/><br/>
+      <sub>FastAPI</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br/>
+      <sub>React</sub>
+    </td>
+    <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/><br/>
       <sub>PHP</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br/>
       <sub>JavaScript</sub>
@@ -187,8 +215,6 @@ LearnQuest (Coursera) · *junio 2026*
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br/>
       <sub>MySQL</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br/>
       <sub>HTML5</sub>
@@ -209,6 +235,8 @@ LearnQuest (Coursera) · *junio 2026*
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br/>
       <sub>Docker</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br/>
       <sub>Git</sub>
@@ -217,6 +245,7 @@ LearnQuest (Coursera) · *junio 2026*
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br/>
       <sub>GitHub</sub>
     </td>
+    <td align="center" width="100" colspan="5"></td>
   </tr>
 </table>
 
@@ -230,7 +259,29 @@ LearnQuest (Coursera) · *junio 2026*
 
 ---
 
-## 🚀 Proyectos de IA & Data Science
+## ⭐ Proyecto destacado
+
+<div align="center">
+
+### 🏥 ResiCare
+> Motor de triaje de incidencias asistido por LLM para residencias de ancianos, con agente ReAct (tool calling) + RAG sobre incidencias pasadas. Proyecto individual del Módulo V (AI Engineering).
+
+[![Ver repo](https://img.shields.io/badge/▶_Ver_repo_ResiCare-79E6BB?style=for-the-badge&logo=github&logoColor=black)](https://github.com/adrianaarang/ResiCare)
+
+- API type-safe multi-proveedor (FastAPI + Pydantic), comparando proveedor comercial (Groq) vs local (Ollama, llama3.2:3b)
+- Agente con tool calling real (`consultar_residente`) + RAG para detectar reincidencia de incidencias
+- Triaje por categoría (clínica, suministros/farmacia, infraestructura, personal) y nivel de urgencia con SLA (crítica <5min, alta <30min, media <4h, baja 24h)
+- Persistencia en SQLite con registro cronológico ("Libro de Incidencias de Enfermería") por residente/día/turno
+- Dashboard en React + Vite
+- Dominio elegido aprovechando su experiencia previa sociosanitaria coordinando equipos en residencias
+
+`Python` · `FastAPI` · `Pydantic` · `React` · `Groq` · `Ollama` · `RAG` · `SQLite`
+
+</div>
+
+---
+
+## 🚀 Más proyectos de IA & Data Science
 
 <div align="center">
 <table>
@@ -375,3 +426,4 @@ Liderazgo de equipos multidisciplinares en entornos de alta presión, optimizaci
 <img src="https://capsule-render.vercel.app/api?type=waving&color=79E6BB&height=100&section=footer" width="100%"/>
 
 </div>
+
