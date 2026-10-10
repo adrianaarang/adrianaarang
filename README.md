@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://adrianaaranguez.es">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=79E6BB&center=true&vCenter=true&width=650&lines=Full+Stack+%26+Python+%7C+IA+%26+Big+Data;%2B8+a%C3%B1os+liderando+equipos+y+analizando+procesos;HealthTech+%C2%B7+Transformaci%C3%B3n+digital" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=79E6BB&center=true&vCenter=true&width=650&lines=Full+Stack+%26+Cloud+%7C+IA+%26+Big+Data;%2B8+a%C3%B1os+liderando+equipos+y+analizando+procesos;HealthTech+%C2%B7+Transformaci%C3%B3n+digital" alt="Typing SVG" />
   </a>
 </div>
 
@@ -46,7 +46,7 @@
 
 ## 👋 Sobre mí
 
-Técnico Superior en Desarrollo de Aplicaciones Web (CFGS DAW) y actualmente en formación en Inteligencia Artificial y Big Data (Bootcamp 1250h, Somos F5). Combino esta base técnico-analítica en Python, Machine Learning y estadística aplicada con **+8 años de experiencia liderando equipos y procesos** en el sector sanitario, lo que me da una capacidad diferencial para entender y modelar problemas complejos en el ámbito **HealthTech**. Experiencia práctica en proyectos de ciencia de datos end-to-end: limpieza y EDA, modelado predictivo, evaluación de modelos, agentes con tool calling y RAG, y despliegue de dashboards y asistentes basados en LLMs.
+Técnica Superior en Desarrollo de Aplicaciones Web (CFGS DAW), actualmente cursando el **Máster en Desarrollo Full Stack y Arquitecturas Cloud** (Tajamar Tech) y el **Bootcamp de Inteligencia Artificial y Big Data** (1250 h, Somos F5). Combino una base técnico-analítica en Python, Machine Learning y estadística aplicada con **más de 8 años de experiencia liderando equipos y procesos** en el sector sanitario, lo que me da una capacidad diferencial para entender y modelar problemas complejos en el ámbito **HealthTech**. Tengo experiencia práctica en proyectos de ciencia de datos end-to-end: limpieza y EDA, modelado predictivo, evaluación de modelos, agentes con tool calling y RAG, y despliegue de dashboards y asistentes basados en LLMs.
 
 ---
 
@@ -57,8 +57,8 @@ Técnico Superior en Desarrollo de Aplicaciones Web (CFGS DAW) y actualmente en 
 <tr>
 <td width="50%">
 
-### 🖥️ CFGS Desarrollo de Aplicaciones Web
-IES Infanta Elena · *2023–2025*
+### ☁️ Máster Full Stack & Arquitecturas Cloud
+Tajamar Tech · *en curso*
 
 </td>
 <td width="50%">
@@ -71,22 +71,28 @@ Somos F5 · *en curso*
 <tr>
 <td width="50%">
 
-### ☁️ AI-901 · Azure AI Fundamentals
+### 🖥️ CFGS Desarrollo de Aplicaciones Web
+IES Infanta Elena · *2023–2025*
+
+</td>
+<td width="50%">
+
+### 🔄 Introduction to Scrum Master Training
+LearnQuest (Coursera) · *junio 2026*
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏅 AI-901 · Azure AI Fundamentals
 Microsoft · *2026*
 
 </td>
 <td width="50%">
 
-### ☁️ AB-900 · M365 Copilot & Agent Admin
+### 🏅 AB-900 · M365 Copilot & Agent Admin
 Microsoft · *julio 2026*
-
-</td>
-</tr>
-<tr>
-<td width="50%" colspan="2" align="center">
-
-### 🔄 Introduction to Scrum Master Training
-LearnQuest (Coursera) · *junio 2026*
 
 </td>
 </tr>
@@ -273,7 +279,7 @@ LearnQuest (Coursera) · *junio 2026*
 - Triaje por categoría (clínica, suministros/farmacia, infraestructura, personal) y nivel de urgencia con SLA (crítica <5min, alta <30min, media <4h, baja 24h)
 - Persistencia en SQLite con registro cronológico ("Libro de Incidencias de Enfermería") por residente/día/turno
 - Dashboard en React + Vite
-- Dominio elegido aprovechando su experiencia previa sociosanitaria coordinando equipos en residencias
+- Dominio elegido a partir de mi experiencia previa coordinando equipos en residencias
 
 `Python` · `FastAPI` · `Pydantic` · `React` · `Groq` · `Ollama` · `RAG` · `SQLite`
 
@@ -426,4 +432,3 @@ Liderazgo de equipos multidisciplinares en entornos de alta presión, optimizaci
 <img src="https://capsule-render.vercel.app/api?type=waving&color=79E6BB&height=100&section=footer" width="100%"/>
 
 </div>
-
