@@ -421,11 +421,7 @@ Liderazgo de equipos multidisciplinares en entornos de alta presión, optimizaci
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrianaarang/adrianaarang/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adrianaarang/adrianaarang/output/github-snake.svg" />
-  <img alt="Snake de contribuciones" src="https://raw.githubusercontent.com/adrianaarang/adrianaarang/output/github-snake.svg" />
-</picture>
+![Snake de contribuciones](https://raw.githubusercontent.com/adrianaarang/adrianaarang/output/github-snake.svg?v=4)
 
 **¿Hablamos?**
 
