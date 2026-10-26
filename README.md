@@ -421,6 +421,12 @@ Liderazgo de equipos multidisciplinares en entornos de alta presión, optimizaci
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrianaarang/adrianaarang/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adrianaarang/adrianaarang/output/github-snake.svg" />
+  <img alt="Snake de contribuciones" src="https://raw.githubusercontent.com/adrianaarang/adrianaarang/output/github-snake.svg" />
+</picture>
+
 **¿Hablamos?**
 
 [![Portfolio](https://img.shields.io/badge/adrianaaranguez.es-79E6BB?style=for-the-badge&logo=googlechrome&logoColor=black)](https://adrianaaranguez.es)&nbsp;
